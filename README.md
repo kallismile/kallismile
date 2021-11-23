@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kallismile.
 - 👀 I’m interested in Web designing and web developing.
 - 🌱 I’m currently learning new technologies.
-- 💞️ I’m looking to collaborate on Wordpress and design.
+- 💞️ I’m looking to collaborate on Wordpress and on design.
 - 📫 Reach me at popisalla@gmail.com.
 
 <!---
